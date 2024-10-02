@@ -1,0 +1,2 @@
+class Gorira < ApplicationRecord
+end
